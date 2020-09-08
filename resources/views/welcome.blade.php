@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Install la hanat
                 </div>
 
                 <div class="links">
